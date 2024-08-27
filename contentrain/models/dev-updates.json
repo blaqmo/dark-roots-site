@@ -115,5 +115,14 @@
     "options": {},
     "validations": {},
     "fieldType": "media"
+  },
+  {
+    "name": "description",
+    "fieldId": "description",
+    "modelId": "dev-updates",
+    "componentId": "multi-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
   }
 ]
