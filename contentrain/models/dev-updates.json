@@ -115,5 +115,14 @@
     "options": {},
     "validations": {},
     "fieldType": "string"
+  },
+  {
+    "name": "cover",
+    "fieldId": "cover",
+    "modelId": "dev-updates",
+    "componentId": "url",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
   }
 ]
