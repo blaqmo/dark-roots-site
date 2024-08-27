@@ -108,15 +108,6 @@
     "fieldType": "date"
   },
   {
-    "name": "content-cover",
-    "fieldId": "cover",
-    "modelId": "dev-updates",
-    "componentId": "media",
-    "options": {},
-    "validations": {},
-    "fieldType": "media"
-  },
-  {
     "name": "description",
     "fieldId": "description",
     "modelId": "dev-updates",
