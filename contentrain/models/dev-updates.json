@@ -115,14 +115,5 @@
     "options": {},
     "validations": {},
     "fieldType": "string"
-  },
-  {
-    "name": "cover",
-    "fieldId": "cover",
-    "modelId": "dev-updates",
-    "componentId": "media",
-    "options": {},
-    "validations": {},
-    "fieldType": "media"
   }
 ]
