@@ -1,0 +1,11 @@
+[
+  {
+    "name": "dev-updates",
+    "modelId": "dev-updates",
+    "localization": false,
+    "type": "MD",
+    "createdBy": "user",
+    "isServerless": false,
+    "path": "static"
+  }
+]
