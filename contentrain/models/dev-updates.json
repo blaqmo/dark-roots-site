@@ -108,7 +108,7 @@
     "fieldType": "date"
   },
   {
-    "name": "cover",
+    "name": "content-cover",
     "fieldId": "cover",
     "modelId": "dev-updates",
     "componentId": "media",
