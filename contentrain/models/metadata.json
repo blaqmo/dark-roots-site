@@ -1,10 +1,1 @@
-[
-  {
-    "name": "dev-updates",
-    "modelId": "dev-updates",
-    "localization": false,
-    "type": "JSON",
-    "createdBy": "user",
-    "isServerless": false
-  }
-]
+[]
