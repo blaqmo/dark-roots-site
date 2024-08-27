@@ -88,5 +88,14 @@
     "system": true,
     "defaultField": false,
     "modelId": "dev-updates"
+  },
+  {
+    "name": "title",
+    "fieldId": "title",
+    "modelId": "dev-updates",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
   }
 ]
